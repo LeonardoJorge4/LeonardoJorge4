@@ -2,12 +2,11 @@
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:rebeccamanzi@gmail.com)](mailto:leonardoti4437@gmail.com)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat&labelColor=C13584&logo=instagram&logoColor=white&link=https://www.instagram.com/codepwr/)](https://www.instagram.com/_leooz_/)
 
-Front-End se tornou meu objetivo principal pois sou apaixonado por UI e
-UX, e busco a princípio experiência para o aprimoramento de minhas
+Front-End se tornou meu objetivo principal pois sou apaixonado por lógica de programação, UI e
+UX. Busco a princípio experiência para o aprimoramento de minhas
 habilidades como desenvolvedor. 
-Meu objetivo dentro da empresa é adquirir novos conhecimentos na área
-da programação, além de poder ajudar a empresa a se desenvolver como
-um todo. Atualmente, procuro trabalhar com Desenvolvimento Front-End.
+Meu objetivo como profissional é adquirir novos conhecimentos e ajudar as pessoas com o meu conhecimento na área
+da programação. Atualmente, procuro trabalhar com Desenvolvimento Front-End.
 
 ⚡
 
