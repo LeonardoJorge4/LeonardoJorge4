@@ -2,6 +2,8 @@
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:rebeccamanzi@gmail.com)](mailto:leonardoti4437@gmail.com)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat&labelColor=C13584&logo=instagram&logoColor=white&link=https://www.instagram.com/codepwr/)](https://www.instagram.com/_leooz_/)
 
+##Um Pouco Sobre mim
+
 Front-End se tornou meu objetivo principal pois sou apaixonado por lógica de programação, UI e
 UX. Busco a princípio experiência para o aprimoramento de minhas
 habilidades como desenvolvedor. 
