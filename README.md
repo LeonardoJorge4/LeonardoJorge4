@@ -8,7 +8,7 @@ Front-End se tornou meu objetivo principal pois sou apaixonado por lógica de pr
 UX. Busco a princípio experiência para o aprimoramento de minhas
 habilidades como desenvolvedor. 
 Meu objetivo como profissional é adquirir novos conhecimentos e ajudar as pessoas com o meu conhecimento na área
-da programação. Atualmente, procuro trabalhar com Desenvolvimento Front-End.
+da programação. Atualmente, tenho uma empresa e trabalho como Desenvolvedor.
 
 ⚡
 
