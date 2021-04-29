@@ -10,5 +10,15 @@ habilidades como desenvolvedor.
 Meu objetivo como profissional é adquirir novos conhecimentos e ajudar as pessoas com o meu conhecimento na área
 da programação. Atualmente, tenho uma empresa e trabalho como Desenvolvedor.
 
+## 💻 Technologies & Tools
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black" height="25"/>
+<img src="https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white" height="25"/>
+<img src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB" height="25"/>
+<img src="https://img.shields.io/npm/dm/react-native-badge-avatar.svg?style=flat-square" height="25"/>
+
+
 ⚡
 
