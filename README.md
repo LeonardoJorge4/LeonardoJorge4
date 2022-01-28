@@ -1,11 +1,7 @@
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rebeccamanzi/)](https://www.linkedin.com/in/leonardo-conrrado-a88a561b6/)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:rebeccamanzi@gmail.com)](mailto:leonardoti4437@gmail.com)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat&labelColor=C13584&logo=instagram&logoColor=white&link=https://www.instagram.com/codepwr/)](https://www.instagram.com/_leooz_/)
+### Hello 👋
+**I am Leonardo Conrrado Jorge 👨🚀.** I am currently a mobile developer at Elitesoft Informática. I also have experience with web development and a bit of backend.
 
-Hello 👋
-I am Leonardo Conrrado Jorge 👨🚀. I am currently a mobile developer at Elitesoft Informática. I also have experience with web development and a bit of backend.
-
-Currently I work with React Native to make mobile apps for Android and iOS.📱
+Currently I work with **React Native** to make mobile apps for Android and iOS.📱
 
 But, I have also used it in projects:
                                                    
@@ -27,4 +23,8 @@ The only certainty I have is that learning is a never ending path and I want to 
 <img src="https://img.shields.io/badge/react native%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB" height="25"/>
 
 ⚡
+ 
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rebeccamanzi/)](https://www.linkedin.com/in/leonardo-conrrado-a88a561b6/)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:rebeccamanzi@gmail.com)](mailto:leonardoti4437@gmail.com)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat&labelColor=C13584&logo=instagram&logoColor=white&link=https://www.instagram.com/codepwr/)](https://www.instagram.com/_leooz_/)
 
