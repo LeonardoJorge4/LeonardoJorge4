@@ -30,6 +30,8 @@ The only certainty I have is that learning is a never ending path and I want to 
 &nbsp;
 <img src="https://cdn-icons-png.flaticon.com/512/528/528261.png" height="35px" />
 &nbsp;
+<img src="https://inceptum-stor.icons8.com/TErRc1E6L9wX/expoicon.jpg" height="35px" />
+&nbsp;
 </p>
 <!-- 
 <img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black" height="25"/>
