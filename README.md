@@ -2,13 +2,20 @@
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:rebeccamanzi@gmail.com)](mailto:leonardoti4437@gmail.com)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat&labelColor=C13584&logo=instagram&logoColor=white&link=https://www.instagram.com/codepwr/)](https://www.instagram.com/_leooz_/)
 
-## Um Pouco Sobre mim
+Hello 👋
+I am Leonardo Conrrado Jorge 👨🚀. I am currently a mobile developer at Elitesoft Informática. I also have experience with web development and a bit of backend.
 
-Front-End se tornou meu objetivo principal pois sou apaixonado por lógica de programação, UI e
-UX. Busco a princípio experiência para o aprimoramento de minhas
-habilidades como desenvolvedor. 
-Meu objetivo como profissional é adquirir novos conhecimentos e ajudar as pessoas com o meu conhecimento na área
-da programação. Atualmente, tenho uma empresa e trabalho como Desenvolvedor.
+Currently I work with React Native to make mobile apps for Android and iOS.📱
+
+But, I have also used it in projects:
+                                                   
+🎓 I have a degree in Systems Analysis and Development.
+
+I also love UX Design 😍. I like to create beautiful interfaces to give the user a great experience.
+
+I have also worked with PHP, MySQL, Laravel and others. I like project architecture, writing clean code and applying best practices.
+
+The only certainty I have is that learning is a never ending path and I want to stay on it. So I love technology and applying knowledge to solve problems, create solutions and impact lives around the world. ❤️
 
 ## 💻 Technologies & Tools
 
