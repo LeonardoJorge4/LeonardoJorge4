@@ -15,8 +15,7 @@ The only certainty I have is that learning is a never ending path and I want to 
 
 ## 💻 Technologies & Tools
 
-<p align="center">
-  
+<p>
 <img src="https://image.flaticon.com/icons/png/512/226/226770.png" height="35px"/>
 &nbsp;
 <img src="https://www.freepnglogos.com/uploads/apple-logo-png/apple-logo-icon-transparent-png-svg-vector-3.png" height="35px"/>  
@@ -29,6 +28,9 @@ The only certainty I have is that learning is a never ending path and I want to 
 &nbsp;
 <img src="https://img.icons8.com/color/452/firebase.png" height="35px" />   
 &nbsp;
+<img src="https://cdn-icons-png.flaticon.com/512/528/528261.png" height="35px" />
+&nbsp;
+</p>
 <!-- 
 <img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black" height="25"/>
 <img src="https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white" height="25"/>
