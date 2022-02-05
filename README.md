@@ -2,8 +2,6 @@
 **I am Leonardo Conrrado Jorge 👨🚀.** I am currently a mobile developer at Elitesoft Informática. I also have experience with web development and a bit of backend.
 
 Currently I work with **React Native** to make mobile apps for Android and iOS.📱
-
-But, I have also used it in projects:
                                                    
 🎓 I have a degree in Systems Analysis and Development.
 
