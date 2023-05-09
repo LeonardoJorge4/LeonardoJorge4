@@ -5,6 +5,8 @@ Atualmente, estou trabalhando com React e NextJS para desenvolver aplicações w
                                                    
 Já trabalhei com tecnologias como React Native, PHP, MySQL e Laravel, e sempre busco aplicar as melhores práticas de programação e arquitetura de projetos, visando escrever um código limpo e escalável.
 
+Para mim, a aprendizagem é um caminho sem fim, e estou constantemente aprimorando meus conhecimentos em tecnologia para resolver problemas e criar soluções inovadoras que possam impactar vidas em todo o mundo. ❤️
+
 ## 💻 Technologies & Tools
 
 <p>
