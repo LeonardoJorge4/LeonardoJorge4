@@ -1,15 +1,9 @@
-### Hello 👋
-**I am Leonardo Conrrado Jorge 👨🚀.** I am currently a mobile developer at Elitesoft Informática. I also have experience with web development and a bit of backend.
+### Olá 👋
+**eu sou Leonardo Conrrado Jorge 👨🚀.** um desenvolvedor de software com mais de 2 anos de experiência no mercado. Sou formado em Análise e Desenvolvimento de Sistemas e possuo habilidades em desenvolvimento de aplicativos móveis, web e backend.
 
-Currently I work with **React Native** to make mobile apps for Android and iOS.📱
+Atualmente, estou trabalhando com React e NextJS para desenvolver aplicações web. Além disso, tenho paixão pelo UX Design 😍, e adoro criar interfaces bonitas e funcionais que proporcionem aos usuários uma experiência excepcional ao utilizar meus sistemas.
                                                    
-🎓 I have a degree in Systems Analysis and Development.
-
-I also love UX Design 😍. I like to create beautiful interfaces to give the user a great experience.
-
-I have also worked with PHP, MySQL, Laravel and others. I like project architecture, writing clean code and applying best practices.
-
-The only certainty I have is that learning is a never ending path and I want to stay on it. So I love technology and applying knowledge to solve problems, create solutions and impact lives around the world. ❤️
+Já trabalhei com tecnologias como React Native, PHP, MySQL e Laravel, e sempre busco aplicar as melhores práticas de programação e arquitetura de projetos, visando escrever um código limpo e escalável.
 
 ## 💻 Technologies & Tools
 
